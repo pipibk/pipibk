@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pipibk
-👀 I’m interested in teaching programming using a project-based approach and in collaborating on anything related to computer science teaching.
+👀 I’m interested in teaching programming using a project-based approach and in collaborating on anything related to teaching computer science concepts to build meaningful products.
 - 📫 How to reach me rachaelpipi@gmail.com
 
 <!---
